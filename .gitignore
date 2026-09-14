@@ -1,2 +1,7 @@
+# Python & IDE Environment
+*.pyc
+.idea/
+__pycache__/
+
 # Secrets & Environment Variables
 .env
